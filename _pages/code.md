@@ -25,3 +25,5 @@ permalink: /code
 ## Related to classes
 
 I have worked with interprofessional project (IPRO) groups at Illinois Tech to develop a <a title="https://github.com/gkumar7/AlGDock" href="https://github.com/gkumar7/AlGDock">web-based graphical user interface for AlGDock</a>. An IPRO team has also developed <a title="https://github.com/Aczopek/Ipro-spring-2016" href="https://github.com/Aczopek/Ipro-spring-2016">image analysis for ball-and-stick models to generate chemical graphs</a>, which may be used for interactive exercises in organic chemistry.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/banners/WindowProfile.jpg" class="img-responsive" width="100%" style="float:center align:center" />

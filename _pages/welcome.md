@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are computational scientists who develop and apply methods to characterize interactions between small molecules and biological macromolecules. These methods are helpful for structure-based drug design.
+We are computational scientists who focus on chemical biology, the interactions between small molecules and biological macromolecules. We develop and apply new methods that may be helpful for structure-based drug design.
 
-Much, but not all, of our effort is focused on implicit ligand theory (ILT), a theoretical framework for binding free energies which David [derived in 2012](http://dx.doi.org/10.1063/1.4751284). Most binding free energy calculations involve computationally expensive molecular simulations of flexible binding partners. David showed that, in theory, equally good results may be achieved by computing free energies between flexible ligands and multiple rigid receptor configurations.
+Much, but not all, of our effort is based on implicit ligand theory (ILT), a theoretical framework for binding free energies which David [derived in 2012](http://dx.doi.org/10.1063/1.4751284). Most binding free energy calculations involve computationally expensive molecular simulations of flexible binding partners. David showed that, in theory, equally good results may be achieved by computing free energies between flexible ligands and multiple rigid receptor configurations.
 
 Our group has made a number of contributions to science.
 
