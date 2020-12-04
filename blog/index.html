@@ -1,0 +1,17 @@
+---
+layout: default
+title: Minh Research Group Blog
+---
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+        <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p itemprop="author" itemscope itemtype="http://schema.org/Person">
+            {% if post.author %}<span itemprop="name">{{ post.author }}</span> • {%endif%}
+            <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></span>
+        </p>
+        <p>{{ post.short }}
+        <a href="{{ post.url }}" title="{{ post.title }}">see full post...</a>
+        </p>
+	  {% endfor %}
+	</ul>

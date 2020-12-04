@@ -1,0 +1,61 @@
+- title: 'Alchemical Grid Dock (AlGDock): Binding Free Energy Calculations between Flexible Ligands and Rigid Receptors'
+  authors: DDL Minh
+  link:
+    url: http://dx.doi.org/10.1002/jcc.26036
+    display: Journal of Computational Chemistry 41, 715--730 (2020)
+  year: 2020
+  image: dock_1hnn.gif
+  description: We have written software to precisely estimate the binding potential of mean force (BPMF), the binding free energy between a flexible ligand and a rigid receptor. The BPMF is a critical ingredient for esimating binding free energies with implicit ligand theory.
+  highlight: 1
+
+- title: 'Using the Fast Fourier Transform in Binding Free Energy Calculations'
+  authors: TH Nguyen; H Zhou; DDL Minh
+  link:
+    url: http://dx.doi.org/10.1002/jcc.25139
+    display: Journal of Computational Chemistry 39, 621--636 (2018)
+  year: 2018
+  image: FFT_interaction_energies.jpg
+  description: We have shown that the Fast Fourier transform can be used to calculate binding free energies using implicit ligand theory. Previously, the use of FFT in molecular docking was only to estimate interaction energies.
+  highlight: 1
+
+- title: 'Identification of the Catalytic Ubiquinone-Binding Site of Vibrio Cholerae Sodium-Dependent NADH Dehydrogenase'
+  authors: K Tuz; C Li; X Fang; DA Raba; P Liang; DDL Minh; O Ju{\'a}rez
+  link:
+    url: http://dx.doi.org/10.1074/jbc.M116.770982
+    display: Journal of Biological Chemistry 292, 3039--3048 (2017)
+  year: 2017
+  image: UQ_binding_pose.jpg
+  description: We have identified the ubiquinone binding site in the bacterial ion pump NQR. This binding site is not obvious from the crystal structure. It is a possible target for structure-based drug design.
+  news1: <a href="https://iit.edu/news/iittoday/?p=65747">IIT Today</a>
+  highlight: 1
+
+- title: 'Hamiltonian Monte Carlo with Constrained Molecular Dynamics as Gibbs Sampling'
+  authors: L Spiridon; DDL Minh
+  link:
+    url: http://dx.doi.org/10.1021/acs.jctc.7b00570
+    display: Journal of Chemical Theory and Computation 13, 4649--4659 (2017)
+  year: 2017
+  image: Macrocycles.jpg
+  description: We have shown how to use constrained molecular dynamics, such as torsional dynamics, as a Monte Carlo move for molecular simulation. Previously, molecular simulations based on constrained dynamics would not sample from the appropriate distribution or not sample the entirely of configuration space.
+  highlight: 1
+  news1: <a href="https://iit.edu/news/iittoday/?p=67429">IIT Today</a>
+
+- title: 'Absolute Binding Free Energies between T4 Lysozyme and 141 Small Molecules: Calculations Based on Multiple Rigid Receptor Configurations'
+  authors: B Xie; TH Nguyen; DDL Minh
+  link:
+    url: http://dx.doi.org/10.1021/acs.jctc.6b01183
+    display: Journal of Chemical Theory and Computation 13, 2930--2944 (2017)
+  year: 2017
+  image: T4_lysozyme_binding.png
+  description: We have performed large-scale protein-ligand binding free energy calculations using implicit ligand theory. Previously, implicit ligand theory was only applied to host-guest systems.
+  highlight: 1
+
+- title: 'Intermediate Thermodynamic States Contribute Equally to Free Energy Convergence: A Demonstration with Replica Exchange'
+  authors: TH Nguyen; DDL Minh
+  link:
+    url: http://dx.doi.org/10.1021/acs.jctc.6b00060
+    display: Journal of Chemical Theory and Computation 12, 2154--2161 (2016)
+  year: 2016
+  image: RepXSystems.png
+  description: We have shown that if there are a sufficient number of states in a replica exchange simulation, the precise definition of states does not affect sampling efficiency. Previously, many scientists thought that the number of states in replica exchange should be carefully optimized.
+  highlight: 1

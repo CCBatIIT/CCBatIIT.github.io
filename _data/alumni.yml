@@ -1,0 +1,58 @@
+# - name: Chamila Dharawardhana
+#   photo: dummy.png
+#   info: Senior Research Associate
+#   duration: 2019
+
+- name: M. Reza Gangalikhany
+  photo: dummy.png
+  info: Visiting Scholar
+  duration: 2018
+  subsequently: Assistant Professor from the Department of Biology, Faculty of Sciences, Isfahan University, Isfahan, Iran.
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Bing Xie
+  photo: BingXie.png
+  info: Ph.D. student in Chemistry and Senior Research Associate.
+  duration: 2014 -- 2019
+  subsequently: Postdoctoral Researcher, National Institutes of Health.
+  # number_educ: 1
+  # education1: Bachelor of Agronomy in Veterinary Medicine, China Agricultural University, China.
+
+- name: William Menzer
+  photo: WilliamMenzer.png
+  info: B.S./M.S. student in Molecular Biochemistry and Biophysics
+  duration: 2016 -- 2019
+  subsequently: Ph.D. Student, LMU Munich
+
+- name: Trung Hai Nguyen
+  photo: TrungNguyen.jpg
+  info: Senior Research Associate
+  duration: 2014 -- 2018
+  subsequently: Postdoctoral Researcher, University of Illinois, Chicago. Lecturer at Ton Duc Thang University, Vietnam.
+
+- name: Chen Li
+  photo: ChenLi.png
+  info: M.S. in Chemistry.
+  duration: 2013 -- 2017
+
+- name: Laurentiu Spiridon
+  photo: LaurentiuSpiridon.png
+  info: Senior Research Associate
+  duration: 2013 -- 2016
+  subsequently: Staff Scientist, Institute of Biochemistry of the Romanian Academy, Bucharest, Romania.
+
+- name: John Clark
+  photo: JohnClark.png
+  info: B.S. Honors Thesis Student in Chemistry
+  duration: 2013 -- 2015
+  subsequently: Proctor and Gamble.
+
+- name: Rachael Youngworth
+  photo: RachaelYoungworth.jpg
+  info: B.S. Honors Thesis Student in Chemistry
+  duration: 2014 -- 2015
+  subsequently: Ph.D. Student, University of Chicago.
