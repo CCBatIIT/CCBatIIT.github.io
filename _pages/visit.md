@@ -11,7 +11,7 @@ We are located on the third floor of Tech South on the Mies campus of Illinois T
 With an Illinois Tech ID, it is possible to enter the building from either the east or west of the passage between Tech South and Tech Central. One may also enter through the IIT Tower. David’s office is in 3C2-1 and the group in the 3C1 corner suite.
 
 <p align="center">
-![Directions to the Minh Lab](/images/directions.jpg)
+![Directions to the Minh Lab](../images/directions.jpg)
 </p>
 
 # Campus  
@@ -36,5 +36,5 @@ With an Illinois Tech ID, it is possible to enter the building from either the e
 </div>
 
 <p align="center">
-![Directions to the Minh Lab](/images/chicago/31st_street_beach_night.png)
+![Directions to the Minh Lab](../images/chicago/31st_street_beach_night.png)
 </p>

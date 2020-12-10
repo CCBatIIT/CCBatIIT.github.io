@@ -8,7 +8,7 @@ permalink: /
 
 We are computational scientists who focus on chemical biology, the interactions between small molecules and biological macromolecules. We develop and apply new methods that may be helpful for structure-based drug design.
 
-Much, but not all, of our effort is based on [implicit ligand theory (ILT)](/research/#implicit-ligand-theory), a theoretical framework for binding free energies which David [derived in 2012](http://dx.doi.org/10.1063/1.4751284). Most binding free energy calculations involve computationally expensive molecular simulations of flexible binding partners. David showed that, in theory, equally good results may be achieved by computing free energies between flexible ligands and multiple rigid receptor configurations.
+Much, but not all, of our effort is based on [implicit ligand theory (ILT)](research/#implicit-ligand-theory), a theoretical framework for binding free energies which David [derived in 2012](http://dx.doi.org/10.1063/1.4751284). Most binding free energy calculations involve computationally expensive molecular simulations of flexible binding partners. David showed that, in theory, equally good results may be achieved by computing free energies between flexible ligands and multiple rigid receptor configurations.
 
 Some of our achievements are described below.
 
@@ -47,7 +47,7 @@ Some of our achievements are described below.
 </div>
 {% endif %}
 
-This website contains information about: our [research projects](/research) in [fast binding free energy calculations](/research/#fast-binding-free-energy-calculations), [enhanced sampling methods](/research/#enhanced-sampling-methods), [Bayesian analysis of binding experiments](/research/#bayesian-analysis-of-binding-experiments), and [modeling metabolic enzymes from pathogenic bacteria](/research/#modeling-metabolic-enzymes-from-pathogenic-bacteria); a [complete list of our publications](/publications) from [the lab](/publications/#minh-lab-publications) and [David's prior work](/publications/#davids-prior-work); links to [source code and data](/resources/#source-code-and-data) related to [publications](/resources/#related-to-publications) and [classes](/resources/#related-to-classes); links to [recommended software](/resources/#recommended-software); a nascent scientific [blog](/blog); and finally information about our [members](/people/#members), [alumni](/people/#alumni), and [visiting](/visit/) or [joining](/people/#joining) the lab.
+This website contains information about: our [research projects](research) in [fast binding free energy calculations](research/#fast-binding-free-energy-calculations), [enhanced sampling methods](research/#enhanced-sampling-methods), [Bayesian analysis of binding experiments](research/#bayesian-analysis-of-binding-experiments), and [modeling metabolic enzymes from pathogenic bacteria](research/#modeling-metabolic-enzymes-from-pathogenic-bacteria); a [complete list of our publications](publications) from [the lab](publications/#minh-lab-publications) and [David's prior work](publications/#davids-prior-work); links to [source code and data](resources/#source-code-and-data) related to [publications](resources/#related-to-publications) and [classes](resources/#related-to-classes); links to [recommended software](resources/#recommended-software); a nascent scientific [blog](blog); and finally information about our [members](people/#members), [alumni](people/#alumni), and [visiting](visit) or [joining](people/#joining) the lab.
 
 Our research has been supported by
 

@@ -9,7 +9,7 @@ permalink: /research/
 Most of our active research projects are in these areas: [fast binding free energy calculations](#fast-binding-free-energy-calculations), [enhanced sampling methods](#enhanced-sampling-methods), [Bayesian analysis of binding experiments](#bayesian-analysis-of-binding-experiments), and [modeling metabolic enzymes from pathogenic bacteria](#modeling-metabolic-enzymes-from-pathogenic-bacteria).
 
 <p align="center">
-![Ensembles](/images/banners/BPMF_ensembles.png)
+![Ensembles](../images/banners/BPMF_ensembles.png)
 </p>
 
 # Fast binding free energy calculations

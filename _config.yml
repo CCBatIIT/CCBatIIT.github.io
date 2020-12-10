@@ -10,8 +10,8 @@ title: The Minh Lab
 email: david.minh@iit.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of David Minh's academic research group at Illinois Tech.
-baseurl: ""
-url: ""
+baseurl: "~dminh/"
+url: "http://mypages.iit.edu/"
 
 include:
   - .htaccess
@@ -41,4 +41,4 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-permalink: /blog/:year/:month/:day/:title
+permalink: blog/:year/:month/:day/:title
