@@ -10,7 +10,7 @@ title: The Minh Lab
 email: david.minh@iit.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of David Minh's academic research group at Illinois Tech.
-baseurl: "~dminh/"
+baseurl: "~dminh"
 url: "http://mypages.iit.edu/"
 
 include:
