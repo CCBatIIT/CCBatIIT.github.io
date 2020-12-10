@@ -6,9 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-See David's profile on [ResearcherID](http://www.researcherid.com/rid/A-4655-2009) or [ORCID](https://orcid.org/0000-0002-4802-2618).
+Jump to [Minh lab publications](#minh-lab-publications) or [David's prior work](#davids-prior-work). Also see David's profile on [ResearcherID](http://www.researcherid.com/rid/A-4655-2009) or [ORCID](https://orcid.org/0000-0002-4802-2618).
 
-# Publications from the Minh lab
+## Minh lab publications
 
 {% for publi in site.data.publist %}
 

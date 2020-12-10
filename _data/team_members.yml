@@ -1,9 +1,14 @@
 - name: David D. L. Minh
   photo: DavidMinh.jpg
-  info: Associate Professor. [Curriculum Vitae.]({{ site.baseurl }}/downloads/DavidMinh_CV.pdf)
+  info: Associate Professor of Chemistry
   # number_educ: 2
   # education1: B.A. in Chemistry, UC Berkeley
   # education2: Ph.D. in Chemistry, UC San Diego
+
+- name: Soohaeng Yoo Willow
+  photo: SoohaengWIllow.jpg
+  info: Research Assistant Professor
+  duration: 2019 -- present
 
 - name: Joseph Depaolo-Boisvert
   photo: dummy.png
@@ -29,8 +34,3 @@
   photo: dummy.png
   info: Ph.D. student in Chemistry
   duration: 2020 -- present
-
-- name: Soohaeng Yoo Willow
-  photo: SoohaengWIllow.jpg
-  info: Research Assistant Professor
-  duration: 2019 -- present

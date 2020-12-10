@@ -1,3 +1,14 @@
+
+- title: 'On the Polarization of Ligands by Proteins'
+  authors: SY Willow; X Bing; J Lawrence; RS Eisenberg; DDL Minh
+  link:
+    url: http://dx.doi.org/10.1039/d0cp00376j
+    display: Physical Chemistry Chemical Physics 22, 12044--12057 (2020)
+  year: 2020
+  image: LigandPolarization.png
+  description: Although it is well-known that ligands are polarized by proteins, the magnitude of this effect had not been quantified in many systems. We evaluated the ligand polarization energy for several hundred protein-ligand complexes and showed that it is a large and highly variable component of the binding energy.
+  highlight: 1
+
 - title: 'Alchemical Grid Dock (AlGDock): Binding Free Energy Calculations between Flexible Ligands and Rigid Receptors'
   authors: DDL Minh
   link:
@@ -5,7 +16,17 @@
     display: Journal of Computational Chemistry 41, 715--730 (2020)
   year: 2020
   image: dock_1hnn.gif
-  description: We have written software to precisely estimate the binding potential of mean force (BPMF), the binding free energy between a flexible ligand and a rigid receptor. The BPMF is a critical ingredient for esimating binding free energies with implicit ligand theory.
+  description: The binding potential of mean force (BPMF), the binding free energy between a flexible ligand and a rigid receptor, is a critical ingredient for esimating binding free energies with implicit ligand theory. We have written software to precisely estimate this quantity and tested it on a diverse set of 85 protein-ligand complexes.
+  highlight: 1
+
+- title: 'Efficiency of Stratification for Ensemble Docking Using Reduced Ensembles'
+  authors: B Xie; JD Clark; DDL Minh
+  link:
+    url: http://dx.doi.org/10.1021/acs.jcim.8b00314
+    display: Journal of Chemical Information and Modeling 58, 1915--1925 (2018)
+  year: 2018
+  image: StratificationTOC.jpg
+  description: Although there are many ways to select representative snapshots from a molecular dynamics simulation to perform molecular docking, it has been unclear how to assess these methods. We pointed out that this procedure is an example of a statistical method, stratified sampling, and that the efficiency of stratification can be used to assess ensemble reduction methods.
   highlight: 1
 
 - title: 'Using the Fast Fourier Transform in Binding Free Energy Calculations'

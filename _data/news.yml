@@ -1,5 +1,15 @@
+- date: December 7, 2020
+  headline: <a href="https://www.ks.uiuc.edu/Services/Seminar/">David presents implicit ligand theory for the Theoretical and Computational Biophysics Group at UIUC</a>.
+
 - date: August 24, 2020
-  headline: Welcome to Tien, Joseph, Sophie, and Ella, our new Ph.D. students!
+  headline: Welcome to Jaycee, Joseph, Sophie, and Ella, our new Ph.D. students!
+
+- date: July 16, 2020
+  headline: Oscar Juarez, Karina Tuz, and David file a patent for CROWNase, a potential COVID-19 treatment. The technology transfer office has made a <a href="https://iit.flintbox.com/#technologies/e02fe793-1746-462f-8f17-205593c0bab6">nonconfidential summary available</a>.
+
+- date: June 1, 2020
+  headline: <a href="https://www.iit.edu/news/chemistrys-david-minh-launches-machine-learning-research-through-new-chair-position">David designated as the inaugural Robert E. Frey, Jr. Term Chair in Chemistry</a>.
+  info: This endowment will help the Minh Lab to <a href="https://www.iit.edu/news/chemistrys-david-minh-launches-machine-learning-research-through-new-chair-position">pursue research applying machine learning to chemistry</a>.
 
 - date: April 6, 2020
   headline: Congratulations, Jim, on passing your Ph.D. qualifying exam!
@@ -10,41 +20,51 @@
 - date: December 29, 2019
   headline: Congratulations, Bing, on your postdoctoral position at the NIH!
 
+- date: September 11, 2019
+  headline: <a href="https://www.iit.edu/news/scientist-star-halo-awards-honor-illinois-tech-trio-improving-others-lives">David selected as one of 40 under 40 Chicago Scientists by Halo Cures</a>.
+
+- date: April 16, 2019
+  headline: <a href="https://www.iit.edu/news/chemistry-2019-sigma-xi-award-recipients">David honored with a Junior Faculty Award</a>.
+
+- date: April 5, 2018
+  headline: <a href="https://www.iit.edu/news/college-science-faculty-promoted-and-tenured">David awarded tenure and promotion</a>.
+
+- date: December 12, 2018
+  headline: <a href="https://www.iit.edu/news/five-win-college-science-deans-excellence-awards">David honored with a College of Science Dean's Excellence Award</a>.
+
 - date: August 16, 2018
-  headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=75503">Minh and Juarez Receive NIH Grant for Predicting Molecular Interactions to Aid Drug Discovery</a>.
+  headline: <a href="https://iit.edu/news/iittoday/?p=75503">We were awarded a NIH R01 grant for fast binding free energy calculations</a>.
   info: The research groups of David Minh, assistant professor of chemistry, and Oscar Juarez, assistant professor of biology, have received an award from the National Institutes of Health (NIH/1R01GM127712-01A1) entitled “Entropy for End-Point and FFT-Based Binding Free Energy Calculations.”
 
 - date: April 12, 2018
-  headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=73510">Chemistry’s David Minh Publishes New Binding Equations in The Journal of Chemical Physics</a>.
+  headline: <a href="https://iit.edu/news/iittoday/?p=73510">We published a new version of implicit ligand theory for relative binding free energies</a>.
   info: David Minh, assistant professor of chemistry, and Trung Hai Nguyen, senior research associate, recently published an article, “Implicit Ligand Theory for Relative Binding Free Energies,” in The Journal of Chemical Physics.
 
 - date: January 30, 2018
-  headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=71365">Chemistry’s David Minh Named CISC Associate Director</a>.
+  headline: <a href="https://iit.edu/news/iittoday/?p=71365">David named the Associate Director of the Center for Interdisciplinary Scientific Computation</a>.
   info: David Minh, assistant professor of chemistry, has been named associate director of the Center for Interdisciplinary Scientific Computation (CISC) at Illinois Tech.
 
 - date: September 26, 2017
-  headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=67429">Computational Microscope Advancement Described by Minh in Journal of Chemical Theory and Computation</a>.
+  headline: <a href="https://iit.edu/news/iittoday/?p=67429">We published a method for using constrained dynamics in equilibrium simulation</a>.
   info: Much like weather forecast models predict the trajectory of a hurricane, computational tools known as molecular dynamics simulations predict the microscopic motion of an interacting system of molecules.
 
 - date: July 18, 2017
-  headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=65747">Juarez and Minh Groups Discover New Structural Motif in Essential Vibrio Cholerae Enzyme</a>.
+  headline: <a href="https://iit.edu/news/iittoday/?p=65747">We discovered a substrate binding site in an important bacterial ion pump</a>.
   info: The research groups of Oscar Juarez, assistant professor of biology, and David Minh, assistant professor of chemistry, have discovered a new structural motif in an essential Vibrio cholerae enzyme that could lead to important drug development.
 
-- headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=64850">Chemistry Ph.D. Candidate Chen Li Selected as a “CBSB2017 Outstanding Young Researcher”</a>.
+- headline: <a href="https://iit.edu/news/iittoday/?p=64850">Chen selected as a “CBSB2017 Outstanding Young Researcher”</a>.
   date: May 10, 2017
   info: Chen Li, a Ph.D. candidate in chemistry working with Assistant Professor David Minh, was selected as a “CBSB2017 Outstanding Young Researcher” for the workshop “From Computational Biophysics to Systems Biology (CBSB2017)” at the University of Cincinnati.
 
-- headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=48248">Assistant Professor Minh Awarded NIH Grant for Work on Computer-Aided Drug Discovery Tools</a>.
+- headline: <a href="https://iit.edu/news/iittoday/?p=48248">We were awarded a NIH grant on implicit ligand theory</a>.
   date: October 20, 2015
-  info: Assistant Professor David Minh received a grant award for $337,373 from the National Institutes of Health for his project entitled "Sound-stage Virtual Screening Based on Implicit Ligand Theory."
 
-- headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=46287">IIT College of Science to Host Midwest Enzyme Chemistry Conference</a>.
+- headline: <a href="https://iit.edu/news/iittoday/?p=46287">David to help host the Midwest Enzyme Chemistry Conference at IIT</a>.
   date: August 13, 2015
   info: The College of Science and Department of Chemistry will host the 35th Midwest Enzyme Chemistry Conference (MECC) on Saturday, September 12, 2015, in the Hermann Hall Ballroom.
 
-- headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=43975">College of Science Announces 2015 Undergraduate Summer Research Stipend Winners</a>.
+- headline: <a href="https://iit.edu/news/iittoday/?p=43975">John awarded a Undergraduate Summer Research Stipend</a>. Congratulations!
   date: April 28, 2015
-  info: The IIT College of Science has chosen 11 students to receive summer research funding, eight under the COS Undergraduate Summer Research Stipend program, and three under the NSF Research for Undergraduate (REU) program.
 
-- headline: In IIT Today, <a href="https://iit.edu/news/iittoday/?p=37551">IIT Assistant Professor of Chemistry David Minh’s new and formally exact theory for calculating binding affinities is featured in an article in International Science Grid This week</a>.
+- headline: Our work was featured in <a href="https://iit.edu/news/iittoday/?p=37551">International Science Grid This week</a>.
   date: October 31, 2014
