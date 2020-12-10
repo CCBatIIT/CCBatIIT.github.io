@@ -79,7 +79,7 @@ Our team is developing chemometric methods and software for analyzing data relat
 
 [2]	T. H. Nguyen et al., “Bayesian analysis of isothermal titration calorimetry for binding thermodynamics,” [PloS One, vol. 13, no. 9, p. e0203224, 2018](http://dx.doi.org/10.1371/journal.pone.0203224).
 
-# Molecular modeling of metabolic enzymes from pathogenic bacteria
+# Modeling metabolic enzymes from pathogenic bacteria
 
 We are working with [Oscar Juarez from the biology department](https://juarezlab.wixsite.com/research), performing molecular modeling to characterize metabolic enzymes in pathogenic bacteria. Most of our collaborative work has been on the ion pump NQR. In Tuz et. al. [1], we performed molecular docking of ubiquinone to the entire complex and predicted the catalytic binding site. The predicted site was corroborated by site-directed mutagenesis and modified biochemical activity. We then performed molecular docking to mutants of subunit D and obtained results consistent measured activity [2]. We have also performed homology modeling and molecular dynamics simulations to help identify a critical pair of residues which are swapped between the homologs from V. Cholera and P. Aeruginosa [3]. When the residues were mutated in the V. cholera homolog, it exhibited the predicted resistance to the natural antibiotic HQNO. Our groups have also collaborated on the flavin transferase ApbE, which is involved in the biosynthesis of NQR [4]. We performed pKa calculations to corroborate the proposed enzymatic mechanism of the enzyme. Our groups are funded by a NIH grant that includes the discovery of succinate dehydrogenase (another metabolic enzyme) inhibitors through novel methods for binding free energy calculations.
 
