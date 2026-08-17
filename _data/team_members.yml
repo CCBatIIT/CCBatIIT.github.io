@@ -1,0 +1,41 @@
+- name: David Minh
+  photo: DavidMinh.jpg
+  info: Robert E. Frey, Jr. Endowed Chair and Associate Professor of Chemistry at Illinois Tech (through 2026)
+  # number_educ: 2
+  # education1: B.A. in Chemistry, UC Berkeley
+  # education2: Ph.D. in Chemistry, UC San Diego
+
+- name: Sadia Afrin
+  photo: SadiaAfrin.jpg
+  info: M.S. student in Chemistry
+  duration: 2025 -- 2026
+
+- name: Fatimah Amer
+  photo: FatimahAmer.jpeg
+  info: B.S/D.O. student in Biology
+  duration: 2025 -- 2026
+
+- name: Joseph Depaolo-Boisvert
+  photo: JosephDepaolo-Boisvert.jpeg
+  info: Ph.D. student in Chemistry
+  duration: 2020 -- 2026
+
+- name: Aiman Khan
+  photo: AimanKhan.jpeg
+  info: Ph.D. student in Chemistry
+  duration: 2022 -- 2026 (with Minh group starting 2024)
+
+- name: Anna Nguyen
+  photo: dummy.png
+  info: Ph.D. student in Chemistry
+  duration: 2023 -- 2026
+
+- name: Talha Talib
+  photo: TalhaTalib.jpg
+  info: Ph.D. student in Chemistry
+  duration: 2022 -- 2026 (with Minh group starting 2024)
+
+- name: James Tufts
+  photo: JamesTufts.jpeg
+  info: Ph.D. student in Chemistry
+  duration: 2020 -- 2026
